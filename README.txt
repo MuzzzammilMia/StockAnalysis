@@ -2,6 +2,8 @@ Author: Muzzammil Mia
 
 Styling convention: PEP8
 Naming convention: CamelCase
+Software Used: Jupyter Notebook
+Modules Used: Pandas, MatPlotLib, NumPy
 
 Description: The aim of this project is to project analytics for potentially viable stocks to invest in. The aim of this project is to provide technical data to see whether a stock is potentially investable.
 
