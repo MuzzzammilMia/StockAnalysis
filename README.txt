@@ -8,7 +8,7 @@ Description: The aim of this project is to project analytics for potentially via
 The first is build is a way for the program to project stock data and to validate whether the company is listed on the stock exchange.  Also to return a graph of the High/Low of a chosen stock.
 
 
-Next task: To be able to calculate the intrinsic value of the company.
+Next task: To be able to calculate the intrinsic value of the company. To be completed at a later date.
 
 
 References
