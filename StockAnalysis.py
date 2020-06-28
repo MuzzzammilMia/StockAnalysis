@@ -87,8 +87,6 @@ plt.ylabel('Cost measured in dollars ($)')
 plt.title('High/Low values : {}'.format(ChosenCompany))
 
 
-# In[ ]:
-
 
 
 
